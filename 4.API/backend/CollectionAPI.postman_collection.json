@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "1e173f16-ffe4-4b5e-b146-c5fdadc6088c",
+		"name": "CollectionAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43596441",
+		"_collection_link": "https://filipe-942691.postman.co/workspace/Filipe's-Workspace~85237110-345b-4401-8b31-55c8934a6d5d/collection/43596441-1e173f16-ffe4-4b5e-b146-c5fdadc6088c?action=share&source=collection_link&creator=43596441"
+	},
+	"item": [
+		{
+			"name": "GET 2CARE",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET 18DEJULHO",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET BAUEN",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
