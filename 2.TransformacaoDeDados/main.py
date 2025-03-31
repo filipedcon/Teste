@@ -63,7 +63,7 @@ class CSVCompressor:
 if __name__ == "__main__":
     pdf_path = "2.TransformacaoDeDados/Anexo_I.pdf"  # Caminho do PDF
     output_dir = "2.TransformacaoDeDados"      # Diretório de saída
-    user_name = "{Filipe_Santana}"      # Substituir pelo seu nome
+    user_name = "{Filipe_Santana}"      
     os.makedirs(output_dir, exist_ok=True)
     
     print("Aguarde...")

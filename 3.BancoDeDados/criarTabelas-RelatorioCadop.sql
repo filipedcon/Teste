@@ -11,7 +11,7 @@ CREATE TABLE operadoras_saude (
     complemento VARCHAR(255),
     bairro VARCHAR(100) NOT NULL,
     cidade VARCHAR(100) NOT NULL,
-    uf CHAR(2) NOT NULL,  -- Estado com 2 caracteres
+    uf VARCHAR(50) NOT NULL,  -- Estado com 2 caracteres
     cep BIGINT NOT NULL,
     ddd SMALLINT NOT NULL,
     telefone BIGINT NOT NULL,
